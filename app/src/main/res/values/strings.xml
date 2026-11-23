@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+    <string name="login_title">Control de Gastos</string>
+    <string name="login_subtitle">Verifica tu huella dactilar para acceder a tus finanzas</string>
+    <string name="btn_authenticate">Autenticar con huella</string>
+    <string name="biometric_title">Inicio de sesión biométrico</string>
+    <string name="biometric_subtitle">Coloca tu huella en el sensor del dispositivo</string>
+    <string name="biometric_negative">Cancelar</string>
+
+    <string name="err_no_sensor">Este dispositivo no tiene sensor de huella dactilar.</string>
+    <string name="err_hw_unavailable">El sensor biométrico no está disponible en este momento.</string>
+    <string name="err_no_enrolled">No hay huellas registradas en el dispositivo.</string>
+    <string name="err_not_recognized">Huella no reconocida. Intenta nuevamente.</string>
+    <string name="err_canceled">Autenticación cancelada por el usuario.</string>
+    <string name="err_lockout">Demasiados intentos fallidos. Espera antes de volver a intentar.</string>
+
+    <string name="expenses_title">Mis Gastos</string>
+    <string name="btn_add_expense">Registrar gasto</string>
+    <string name="btn_settings">Ajustes</string>
+    <string name="hint_concept">Concepto del gasto</string>
+    <string name="hint_category">Categoría (ej. Comida, Transporte, Escuela)</string>
+    <string name="hint_amount">Monto ($)</string>
+    <string name="hint_date">Fecha (AAAA-MM-DD)</string>
+    <string name="btn_save_expense">Guardar gasto</string>
+    <string name="btn_delete_expense">Eliminar</string>
+    <string name="err_required">Este campo es obligatorio</string>
+    <string name="err_amount">Ingresa un monto mayor a 0</string>
+    <string name="err_date">Usa el formato AAAA-MM-DD (ej. 2026-11-23)</string>
+
+    <string name="switch_dark_mode">Modo oscuro</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="btn_back">Regresar</string>
+    <string name="firebase_checking">Verificando conexión con Firebase…</string>
+    <string name="firebase_connected">Firebase conectado correctamente.</string>
+    <string name="firebase_unavailable">No fue posible conectar con Firebase.</string>
+    <string name="firebase_not_configured">Firebase no está configurado correctamente.</string>
+    <string name="firebase_firestore_permission_denied">Firestore responde, pero las reglas no permiten leer los gastos.</string>
+</resources>
