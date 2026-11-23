@@ -6,7 +6,7 @@ Aplicación móvil nativa para Android desarrollada en **Kotlin** con **ViewBind
 * **Proyecto:** Control de Gastos 
 * **Autora:** ESMERALDA RUIZ GARCIA
 * **Fecha:** 23 de noviembre de 2026
-
+  
 ## Características principales
 * **Autenticación biométrica (`BiometricPrompt`):** Pantalla de inicio protegida por huella dactilar con manejo de casos como sensor ausente o no disponible, sin huella registrada, huella no reconocida, cancelación del usuario y bloqueo por intentos fallidos.
 * **Acceso protegido:** Impide el acceso a las pantallas internas sin autenticarse y limpia la pila al cerrar sesión para volver a exigir huella.
