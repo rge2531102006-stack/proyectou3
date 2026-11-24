@@ -17,16 +17,20 @@ Aplicación móvil nativa para Android desarrollada en **Kotlin** con **ViewBind
 ## Capturas de pantalla
 
 ### Login biométrico
-![Pantalla de inicio y autenticación con huella](screenshots/login.png)
+![Pantalla de inicio y autenticación con huella](38a818c4-7d6a-491c-8eda-5ab83cbda5d5.jpg
+)
 
 ### Lista y resumen de gastos
-![Pantalla principal con total gastado y lista de gastos](screenshots/main.png)
+![Pantalla principal con total gastado y lista de gastos](714450c3-a5d8-40b7-9d7d-a284f5b21590.jpg
+)
 
 ### Formulario de registro de gasto
-![Formulario con campos de concepto, categoría, monto y fecha](screenshots/formulario.png)
+![Formulario con campos de concepto, categoría, monto y fecha](694c0ef7-8e95-4091-8d64-85a8da7cf581.jpg
+)
 
 ### Configuración, sensores y cierre de sesión
-![Pantalla de configuración con modo oscuro, acelerómetro, giroscopio y cerrar sesión](screenshots/configuracion.png)
+![Pantalla de configuración con modo oscuro, acelerómetro, giroscopio y cerrar sesión](0e0109db-6cab-4b5d-9891-4da408297701.jpg
+)
 
 ## Estructura del proyecto
 - `app/src/main/java/com/example/controldegastos/` — Paquetes y actividades (`login`, `MainActivity`, `formulario`, `gasto`, `datos`, `repositorio`, `configuracion`, etc.).
